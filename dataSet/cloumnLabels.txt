@@ -1,0 +1,1 @@
+rawX    rawY    filteredX   filteredY   Speed(pixel/ms)     delta_time(time difference to the last event)       average_speed       median_speed        angle(radian)
